@@ -37,8 +37,3 @@
   <!-- Total Contributions -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vkb20&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-<p align="center">
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkb20&layout=compact&theme=tokyonight&hide_border=true" alt="Languages"/>
-</p>

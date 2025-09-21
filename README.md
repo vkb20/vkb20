@@ -5,7 +5,7 @@
 - How to reach me: varunkmb20@gmail.com | [LinkedIn](https://www.linkedin.com/in/varun-kumar-681977192/)  
 - More about me : [Resume](https://drive.google.com/file/d/1iDBPvu8hymcxruwTMa-9UAvXQcCFSqVW/view?usp=drive_link)  
 
-### 🛠️ Languages and Tools:
+## Languages and Tools:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Hive"/>
 </p>
 
-## Stats  
+## Stats:
 <p align="center">
   <!-- Total Contributions -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vkb20&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
